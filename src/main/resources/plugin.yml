@@ -1,0 +1,6 @@
+name: BletzziRanks
+version: '1.0.0'
+main: com.bletzzi.ranks.RanksPlugin
+api-version: '1.18'
+authors: [ Bletzzi ]
+website: bletzzi.com

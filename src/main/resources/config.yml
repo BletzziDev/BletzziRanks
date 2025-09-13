@@ -1,0 +1,25 @@
+database:
+  host: 'localhost:3306'
+  database: ''
+  user: ''
+  password: ''
+
+ranks:
+  pedra1:
+    order: 1
+    name: '&7Pedra &lI'
+    prices:
+      money: 100.0
+    commands: [ ]
+  pedra2:
+    order: 2
+    name: '&7Pedra &lII'
+    prices:
+      money: 500.0
+    commands: []
+  pedra3:
+    order: 3
+    name: '&7Pedra &lIII'
+    prices:
+      money: 1000.0
+    commands: [ ]
